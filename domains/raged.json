@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "pranav-bot-code",
+        "email": "[redacted for privacy]",
+        "discord": "ragedpranav"
+    },
+    "repo": "https://github.com/pranav-bot-code/mainsite-new",
+    "description": "A website with a collection of random stuff I made",
+    "record": {
+       "CNAME": "raged CNAME pkk-main.netlify.app."
+    }
+}
